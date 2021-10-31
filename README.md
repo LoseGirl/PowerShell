@@ -13,7 +13,7 @@ Although this repository started as a fork of the Windows PowerShell code base, 
 This also means that [issues tracked here][issues] are only for PowerShell Core 6 and higher.
 Windows PowerShell specific issues should be reported with the [Feedback Hub app][feedback-hub], by choosing "Apps > PowerShell" in category.
 
-[issues]: https://github.com/PowerShell/PowerShell/issues
+[issues]: https://github.com/PowerShell/LoseGirl/issues
 [feedback-hub]: https://support.microsoft.com/windows/send-feedback-to-microsoft-with-the-feedback-hub-app-f59187f8-8739-22d6-ba93-f66612949332
 
 ## New to PowerShell?
